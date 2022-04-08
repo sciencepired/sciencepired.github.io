@@ -1,3 +1,5 @@
+---
 layout: page
-title: About
-permalink: /blogs
+title: Blogs
+permalink: /blogs/
+---
